@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hola, soy Ivo Joaquín Neiman  
 
-<!--
-**ivoneiman/ivoneiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Diseñador Web** con experiencia en WordPress, Shopify y Wix.  
+🎓 Estudiante de **Licenciatura en Sistemas** en la Universidad Nacional de La Plata (UNLP).  
+📍 Enfocado en combinar diseño atractivo con programación sólida.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí  
+- 2+ años creando sitios web profesionales que ayudan a negocios a crecer.  
+- Actualmente en 3er año de la carrera, con formación en:  
+  - Programación Orientada a Objetos (Java)  
+  - Rust (proyectos como un marketplace descentralizado)  
+  - Algoritmos y Estructuras de Datos  
+  - Ingeniería de Software y Bases de Datos  
+  - Programación Concurrente y Redes  
+
+Me interesa el desarrollo de software que une la parte visual (UX/UI) con el backend y la arquitectura de sistemas.  
+
+---
+
+## 🛠️ Tecnologías y herramientas  
+- **Lenguajes:** Java, Rust, JavaScript, PHP  
+- **Frameworks & Web:** WordPress, Shopify, Wix  
+- **Bases de datos:** MySQL, PostgreSQL  
+- **Otros:** Git/GitHub, Figma, SEO, Linux básico  
+
+---
+
+## 🌟 Experiencia  
+- **Diseño Web personalizado**: sitios sin plantillas, adaptados al negocio.  
+- **SEO y contenidos**: optimización real para buscadores.  
+- **Proyectos académicos y personales** en Java y Rust aplicando OOP, concurrencia y estructuras de datos.  
