@@ -43,11 +43,9 @@ Actualmente vivo en Argentina y curso **4° año de Licenciatura en Sistemas en 
 ---
 
 ## Formación
-
-### Universidad Nacional de La Plata (UNLP)
-
-**Licenciatura en Sistemas — 4° año**
-**Analista Programador Universitario - Finalizado.**
+**Universidad Nacional de La Plata (UNLP)**
+- **Licenciatura en Sistemas — 4° año**
+- *Analista Programador Universitario - Finalizado.*
 ---
 
 ## 📫 Contacto
