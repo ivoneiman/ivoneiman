@@ -18,41 +18,11 @@ Actualmente vivo en Argentina y curso **4° año de Licenciatura en Sistemas en 
 -  Me interesa crear productos que se vean bien **y generen resultados**
 
 ---
-
 ## Stack Tecnológico
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- Vue.js
-- Node.js
-- Diseño Responsive
-
-### Web / CMS
-- WordPress
-- Shopify
-- Wix
-
-### Backend / Programación
-- Java
-- Python
-- Rust
-- SQL
-
-### Herramientas
-- Git
-- GitHub
-- Figma
-- VS Code
-
-### Conocimientos Complementarios
-- APIs REST
-- Bases de Datos
-- Networking
-- SEO Técnico
-- Core Web Vitals
-
+- **Backend/Programación:** Java, Python, Rust, SQL
+- **Frontend:** HTML5, CSS3, JavaScript, Vue.js, Node.js.
+- **Web/CMS:** WordPress, Shopify, Wix
+- **Herramientas:** Git, GitHub, Figma, VS Code
 ---
 
 ## 💼 Experiencia
@@ -64,7 +34,7 @@ Actualmente vivo en Argentina y curso **4° año de Licenciatura en Sistemas en 
 - Mejora de velocidad, estructura y posicionamiento orgánico  
 - Trabajo con deadlines exigentes y equipos remotos
 
-### Freelance Frontend Developer 
+### Freelance Frontend Developer & Web Designer
 
 - Desarrollos completos de sitios WordPress desde diseño hasta lanzamiento, para clientes nacionales e internacionales  
 - Gestión directa con cliente en inglés  
