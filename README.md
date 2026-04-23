@@ -4,7 +4,7 @@
 
 Construyo productos web rápidos, escalables y enfocados en resultados, combinando **diseño, desarrollo y visión de negocio**.
 
-Actualmente vivo en Argentina 🇦🇷 y curso **4° año de Licenciatura en Sistemas en la UNLP**, con sólida base en ingeniería de software, arquitectura de sistemas, redes y desarrollo backend.
+Actualmente vivo en Argentina y curso **4° año de Licenciatura en Sistemas en la UNLP**, con sólida base en ingeniería de software, arquitectura de sistemas, redes y desarrollo backend. También estoy recibido de la carrera Analista Programador Universitario, en la misma universidad! 😁
 
 ---
 
