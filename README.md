@@ -1,33 +1,86 @@
-# 👋 Hola, soy Ivo Joaquín Neiman  
+# 👋 Hola, soy Ivo
 
-💻 **Diseñador Web** con experiencia en WordPress, Shopify y Wix.  
-🎓 Estudiante de **Licenciatura en Sistemas** en la Universidad Nacional de La Plata (UNLP).  
-📍 Enfocado en combinar diseño atractivo con programación sólida.  
+### Desarrollador FullStack | Estudiante de Licenciatura en Sistemas
 
----
+Construyo productos web rápidos, escalables y enfocados en resultados, combinando **diseño, desarrollo y visión de negocio**.
 
-## 🚀 Sobre mí  
-- 2+ años creando sitios web profesionales que ayudan a negocios a crecer.  
-- Actualmente en 3er año de la carrera, con formación en:  
-  - Programación Orientada a Objetos (Java)  
-  - Rust (proyectos como un marketplace descentralizado)  
-  - Algoritmos y Estructuras de Datos  
-  - Ingeniería de Software y Bases de Datos  
-  - Programación Concurrente y Redes  
-
-Me interesa el desarrollo de software que une la parte visual (UX/UI) con el backend y la arquitectura de sistemas.  
+Actualmente vivo en Argentina 🇦🇷 y curso **4° año de Licenciatura en Sistemas en la UNLP**, con sólida base en ingeniería de software, arquitectura de sistemas, redes y desarrollo backend.
 
 ---
 
-## 🛠️ Tecnologías y herramientas  
-- **Lenguajes:** Java, Rust, JavaScript, PHP  
-- **Frameworks & Web:** WordPress, Shopify, Wix  
-- **Bases de datos:** MySQL, PostgreSQL  
-- **Otros:** Git/GitHub, Figma, SEO, Linux básico  
+## Sobre mí
+
+-  +3 años desarrollando sitios y soluciones web en producción  
+-  Experiencia trabajando de forma remota con clientes internacionales  
+-  Especializado en Frontend, WordPress, Shopify, performance y SEO  
+-  Mentalidad orientada a sistemas: arquitectura, escalabilidad y código limpio  
+-  Implementé estrategias SEO con impacto en tráfico y generación de leads  
+-  Me interesa crear productos que se vean bien **y generen resultados**
 
 ---
 
-## 🌟 Experiencia  
-- **Diseño Web personalizado**: sitios sin plantillas, adaptados al negocio.  
-- **SEO y contenidos**: optimización real para buscadores.  
-- **Proyectos académicos y personales** en Java y Rust aplicando OOP, concurrencia y estructuras de datos.  
+## Stack Tecnológico
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Vue.js
+- Node.js
+- Diseño Responsive
+
+### Web / CMS
+- WordPress
+- Shopify
+- Wix
+
+### Backend / Programación
+- Java
+- Python
+- Rust
+- SQL
+
+### Herramientas
+- Git
+- GitHub
+- Figma
+- VS Code
+
+### Conocimientos Complementarios
+- APIs REST
+- Bases de Datos
+- Networking
+- SEO Técnico
+- Core Web Vitals
+
+---
+
+## 💼 Experiencia
+
+### Product & SEO Developer | Eldorado (Estados Unidos) 
+
+- Desarrollo de múltiples sitios web para clientes en producción  
+- Estrategias SEO con +40 artículos optimizados 
+- Mejora de velocidad, estructura y posicionamiento orgánico  
+- Trabajo con deadlines exigentes y equipos remotos
+
+### Freelance Frontend Developer 
+
+- Desarrollos completos de sitios WordPress desde diseño hasta lanzamiento, para clientes nacionales e internacionales  
+- Gestión directa con cliente en inglés  
+- Entrega autónoma de proyectos listos para producción
+
+---
+
+## Formación
+
+### Universidad Nacional de La Plata (UNLP)
+
+**Licenciatura en Sistemas — 4° año**
+**Analista Programador Universitario - Finalizado.**
+---
+
+## 📫 Contacto
+
+- LinkedIn: linkedin.com/in/ivoneiman  
+- Email: contactoivoneiman@gmail.com
