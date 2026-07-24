@@ -1,9 +1,6 @@
 👋 Hola, soy Ivo
 
 Desarrollador FullStack | Estudiante de Licenciatura en Sistemas
-
-Construyo productos web rápidos, escalables y enfocados en resultados, combinando diseño, desarrollo y visión de negocio.
-
 Actualmente vivo en Argentina, me encuentro en 4to año de Licenciatura en Sistemas en la UNLP. También estoy terminando el título intermedio de Analista Programador Universitario en la misma universidad (últimas 2 materias)
 
 ## Sobre mí
